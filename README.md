@@ -6,6 +6,6 @@ It comes with stats.js and three.min.js build
 
 ![screenshot1](https://github.com/QuekZ/ThreeJS_Boilerplate/blob/main/images/screenshot.PNG?raw=true)
 
-to get it simply write 'git clone https://github.com/QuekZ/ThreeJS_Boilerplate.git'
+to get it simply write `git clone https://github.com/QuekZ/ThreeJS_Boilerplate.git`
 
 have fun!
